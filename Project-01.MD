@@ -8,7 +8,7 @@ We know how to use work with each and Git, Jenkins independently. What if you wa
 1. Login to Jenkins console
 1. Create *Jenkins job*, Fill the following details,
    - *Source Code Management:*
-      - Repository: `https://github.com/ValaxyTech/hello-world.git`
+      - Repository: `https://github.com/tjitrak/Web-Demo-Workshop.git`
       - Branches to build : `*/master`  
    - *Build:*
      - Root POM:`pom.xml`
