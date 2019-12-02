@@ -1,5 +1,10 @@
 # Simple DevOps Project -02
 
+Prerequisites:
+1. Ansible server 
+2. Jenkins Server 
+3. Tocmat Server 
+
 ### Part-01 Integration Setps
 
 Install "publish Over SSH"
